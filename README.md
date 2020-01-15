@@ -1,5 +1,5 @@
 # Trillo-Project
-Trillo (Presentational page) SASS
+Trillo (Presentational page) - SASS
 
 Hello!
 
