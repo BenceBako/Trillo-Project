@@ -1,5 +1,5 @@
-# Trillo-Project
-Trillo (Presentational page) - SASS
+# Trillo
+Advanced CSS and SASS project work from Jonas Schmedtmann
 
 Hello!
 
